@@ -1,0 +1,14 @@
+platform :ios, '17.0'
+
+target 'JonesSpencer_BookTrackingApp' do
+  use_frameworks!
+
+  # Pods for JonesSpencer_BookTrackingApp
+  pod 'FirebaseCore'
+  pod 'FirebaseAuth'
+  pod 'FirebaseDatabase'
+  pod 'FirebaseAnalytics'
+  pod 'FirebaseFirestore'
+end 
+
+
